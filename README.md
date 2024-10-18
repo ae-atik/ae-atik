@@ -6,6 +6,7 @@ Welcome to my GitHub profile! I'm a Computer Science and Engineering undergrad s
 
 ---
 
+
 ## 🛠️ Technologies & Tools
 
 ### Languages & Frameworks
@@ -17,6 +18,10 @@ Welcome to my GitHub profile! I'm a Computer Science and Engineering undergrad s
 ### Additional Skills
 - ![API Integration](https://img.shields.io/badge/API%20Integration-006600?style=for-the-badge&logo=plug&logoColor=white)
 - ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+
+<div style="text-align: right;">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDh1aXVvZzlpNjM5Mm93OWYxaGJkeWh3cmd6OHA0cjhxYjN3MzhjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Zesu5VPNGJlm/giphy.gif" alt="GIF" />
+</div>
 
 
 ---
