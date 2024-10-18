@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Atik!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+Atik;A+Passionate+Developer;Exploring+Web+and+Backend+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Passionate+Developer.;Exploring+the+Web!)](https://git.io/typing-svg)
 
-Welcome to my GitHub profile! I'm a Computer Science and Engineering student at **CUET** 🇧🇩
+Welcome to my GitHub profile! I'm a Computer Science and Engineering undergrad student at **CUET**. 🇧🇩 
 
 ---
 
@@ -18,15 +18,16 @@ Welcome to my GitHub profile! I'm a Computer Science and Engineering student at 
 - ![API Integration](https://img.shields.io/badge/API%20Integration-006600?style=for-the-badge&logo=plug&logoColor=white)
 - ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
+
+---
+
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 
 ---
 
 ## 📂 Featured Projects & Work
 
-### Coming soon .....
-
-[![Would You Rather](https://img.shields.io/badge/Play-Would%20You%20Rather-orange?style=for-the-badge&logo=fun)](https://either.io/)
+## Coming soon .....
 
 ---
 
@@ -55,5 +56,5 @@ Feel free to reach out if you want to collaborate or just have a chat!
 
 ---
 
-[![Footer Animation](https://readme-typing-svg.demolab.com/?lines=Thanks+for+visiting+my+profile!;Feel+free+to+explore+my+work!)](https://git.io/typing-svg)
+[![Footer Animation](https://readme-typing-svg.demolab.com/?lines=Thanks+for+visiting+my+profile!!)](https://git.io/typing-svg)
 
