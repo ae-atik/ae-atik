@@ -7,9 +7,11 @@ Welcome to my GitHub profile! I'm a Computer Science and Engineering undergrad s
 ---
 
 ## 🛠️ Technologies & Tools
-<img width =300px align=right  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHQ5MmdicXZ2YXphaHVqbDlqdjVra2dydzZpZ2VtZ2N6eHlhZWg5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Zesu5VPNGJlm/200.webp">
+
 
 ### Languages & Frameworks
+<img width =400px align=right margin-top=100px src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHQ5MmdicXZ2YXphaHVqbDlqdjVra2dydzZpZ2VtZ2N6eHlhZWg5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Zesu5VPNGJlm/200.webp">
+
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
