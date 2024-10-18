@@ -7,6 +7,7 @@ Welcome to my GitHub profile! I'm a Computer Science and Engineering undergrad s
 ---
 
 ## 🛠️ Technologies & Tools
+<img width =600px align=right  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHQ5MmdicXZ2YXphaHVqbDlqdjVra2dydzZpZ2VtZ2N6eHlhZWg5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Zesu5VPNGJlm/200.webp">
 
 ### Languages & Frameworks
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -19,7 +20,7 @@ Welcome to my GitHub profile! I'm a Computer Science and Engineering undergrad s
 - ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
 ---
-
+<br></br>
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 
 ---
