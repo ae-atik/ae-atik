@@ -58,7 +58,6 @@ I love coding, problem-solving, and exploring new technologies. Currently, I’m
 
 ![Atik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ae-atik&show_icons=true&theme=radical)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ae-atik&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ae-atik&theme=radical)](https://git.io/streak-stats)
 
 ---
 
