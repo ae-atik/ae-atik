@@ -52,6 +52,9 @@ I love coding, problem-solving, and exploring new technologies. Currently, I’m
 ### 🏦 **BSC Wallet Connect in DApp & Fee Deduction**
 [![Try It Out](https://img.shields.io/badge/Try%20It-Out-2196F3?style=for-the-badge&logo=binance&logoColor=white)](https://bsc-connect.netlify.app)
 
+### 🎨 **Elegant & Responsive Portfolio Site (Canva to HTML/CSS)**
+[![Live Preview](https://img.shields.io/badge/View-3F51B5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://test4040.netlify.app)
+
 ---
 
 ## 📈 **GitHub Stats**
