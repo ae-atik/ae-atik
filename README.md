@@ -55,6 +55,9 @@ I love coding, problem-solving, and exploring new technologies. Currently, I’m
 ### 🎨 **Elegant & Responsive Portfolio Site (Canva to HTML/CSS)**
 [![Live Preview](https://img.shields.io/badge/View-3F51B5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://test4040.netlify.app)
 
+### 📦 **TeleCommerce Bot (Telegram Bot for Digital Products & Payments)**
+[![Chat Now](https://img.shields.io/badge/Chat%20Now-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TymailBot)
+
 ---
 
 ## 📈 **GitHub Stats**
